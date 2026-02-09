@@ -328,7 +328,7 @@
     }
 
     .navLink {
-        display: none;
+        display: inline-block;
     }
 
     .dropdownMenu {
