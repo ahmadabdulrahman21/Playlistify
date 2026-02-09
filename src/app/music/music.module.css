@@ -327,6 +327,9 @@
         display: none;
     }
 
+    .navLink {
+        display: flex;
+    }
 
     .dropdownMenu {
         width: 85vw;
